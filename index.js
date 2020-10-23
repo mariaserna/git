@@ -8,7 +8,7 @@ const attendees = [
   {
     name: "Antonia Serna",
     nickname: "Anto &#127773;",
-    bio: "Front end dev @ Zemoga",
+    bio: "Front end dev @ Zemoga, presenter at the imaginatio on the git talk",
     githubLink: "https://github.com/mariaserna"
   },
   {
@@ -18,6 +18,8 @@ const attendees = [
     githubLink: "https://github.com/mariaserna"
   }
 ];
+
+console.log("asdasd")
 
 const makeCard = ({
   name,
