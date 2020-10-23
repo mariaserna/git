@@ -13,7 +13,7 @@ const attendees = [
   },
    {
     name: "Sebastian Contreras",
-    nickname: "Anto &#127773;",
+    nickname: "Dracon;",
     bio: "Estudiante Ingenieria en Multimedia",
     githubLink: "https://github.com/dorado_virtual"
   },
