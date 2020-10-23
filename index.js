@@ -12,14 +12,12 @@ const attendees = [
     githubLink: "https://github.com/mariaserna"
   },
   {
-    name: "Orlandito",
+    name: "Orlandito 🌝",
     nickname: "Orlito",
     bio: "Front end dev @ Zemoga",
     githubLink: "https://github.com/mariaserna"
   }
 ];
-
-console.log("asdasd")
 
 const makeCard = ({
   name,
