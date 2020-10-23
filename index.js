@@ -10,6 +10,12 @@ const attendees = [
     nickname: "Anto &#127773;",
     bio: "Front end dev @ Zemoga, presenter at the imaginatio on the git talk",
     githubLink: "https://github.com/mariaserna"
+  },
+  {
+    name: "Sebastian Bernal",
+    nickname: "Sebs",
+    bio: "Estudiante de Ingeniería Multimedia, me gusta derankear por jugar con mis amigos en el CSGO y el Valorant",
+    githubLink: "https://github.com/SebastianBG"
   }
 ];
 
