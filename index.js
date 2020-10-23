@@ -16,7 +16,7 @@ const attendees = [
     nickname: "Anto &#127773;",
     bio: "Estudiante Ingenieria en Multimedia",
     githubLink: "https://github.com/dorado_virtual"
-  }
+  },
 ];
 
 const makeCard = ({
