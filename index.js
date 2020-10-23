@@ -10,6 +10,12 @@ const attendees = [
     nickname: "Anto &#127773;",
     bio: "Front end dev @ Zemoga",
     githubLink: "https://github.com/mariaserna"
+  },
+  {
+    name: "Daniel Salazar",
+    nickname: "Danny-Dev;",
+    bio: "Hola, Soy daniel interesado en el desarrollo web y aprendiendo git",
+    githubLink: "https://github.com/Danny-Dev400"
   }
 ];
 
