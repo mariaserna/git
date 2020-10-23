@@ -14,7 +14,7 @@ const attendees = [
   {
     name: "Sebastian Bernal",
     nickname: "Sebs",
-    bio: "Estudiante de Ingeniería Multimedia, me gusta el CSGO y el Valorant",
+    bio: "Estudiante de Ingeniería Multimedia, me gusta derankear por jugar con mis amigos en el CSGO y el Valorant",
     githubLink: "https://github.com/SebastianBG"
   }
 ];
