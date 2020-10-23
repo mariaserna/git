@@ -1,3 +1,23 @@
+<<<<<<< HEAD
+const attendees = [{
+        name: "Orlando Donado",
+        nickname: "Orli &#127773;",
+        bio: "Front end dev @ Zemoga. Music, bicycle and soccer lover (even though I'm really bad at it!). Wario main in MarioKart / SMBU and noob Valorant controller improving every day! &#128299;",
+        githubLink: "https://github.com/OurxD"
+    },
+    {
+        name: "Antonia Serna",
+        nickname: "Anto &#127773;",
+        bio: "Front end dev @ Zemoga",
+        githubLink: "https://github.com/mariaserna"
+    },
+    {
+        name: "David Martínez",
+        nickname: "preside",
+        bio: "Estudiante Ing. en Multimedia",
+        githubLink: "https://github.com/preside-blip"
+    }
+=======
 const attendees = [
   {
     name: "Orlando Donado",
@@ -17,13 +37,14 @@ const attendees = [
     bio: "Estudiante de Ingeniería Multimedia, me gusta derankear por jugar con mis amigos en el CSGO y el Valorant",
     githubLink: "https://github.com/SebastianBG"
   }
+>>>>>>> upstream/develop
 ];
 
 const makeCard = ({
-  name,
-  nickname,
-  bio,
-  githubLink
+    name,
+    nickname,
+    bio,
+    githubLink
 }) => `
   <div class="col py-3">
     <div class="card">
