@@ -1,15 +1,15 @@
 const attendees = [
   {
-    name: "Orlando Donado",
-    nickname: "Orli &#127773;",
+    name: "Carlos Andres Muñoz",
+    nickname: "PAQUITO",
     bio: "Front end dev @ Zemoga. Music, bicycle and soccer lover (even though I'm really bad at it!). Wario main in MarioKart / SMBU and noob Valorant controller improving every day! &#128299;",
-    githubLink: "https://github.com/OurxD"
+    githubLink: "https://github.com/carlos1201829"
   },
   {
-    name: "Antonia Serna",
-    nickname: "Anto &#127773;",
+    name: "Carlos Andres",
+    nickname: "PACO",
     bio: "Front end dev @ Zemoga",
-    githubLink: "https://github.com/mariaserna"
+    githubLink: "https://github.com/carlos1201829"
   }
 ];
 
